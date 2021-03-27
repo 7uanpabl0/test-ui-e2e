@@ -1,4 +1,5 @@
 //Clonar el archivo 
+
 git clone https://github.com/7uanpabl0/test-ui-e2e.git
 
 //Ubicarse en la carpeta
