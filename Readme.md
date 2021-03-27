@@ -18,3 +18,9 @@ npm install
 ## Correr las pruebas
 
 npm run test:e2e:ui
+
+##luego click en la opcion "run all"
+## O utilizar el comnado
+
+test:e2e:ui:headless
+Despues de instalar las dependecias 
