@@ -11,6 +11,7 @@ cd test-ui-e2e.git
 code .
 
 ## Instalar dependencias
+## Abrir la termanal
 
 npm install
 
