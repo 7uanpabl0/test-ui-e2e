@@ -23,4 +23,5 @@ npm run test:e2e:ui
 ## O utilizar el comnado
 
 test:e2e:ui:headless
+
 Despues de instalar las dependecias 
